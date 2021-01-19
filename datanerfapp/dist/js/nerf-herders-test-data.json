@@ -1,0 +1,50 @@
+{
+    "name": "A",
+    "description": "This is a description of A",
+    "area": "Parent: n/a",
+    "children": [
+      {
+        "name": "C",
+        "description": "This is a description of C",
+        "area": "Parent: A",
+        "children": []
+      },
+      {
+        "name": "B",
+        "description": "This is a description of B",
+        "area": "Parent: A",
+        "children": [
+          {
+            "name": "B-1",
+            "description": "This is a description of B-1",
+            "area": "Parent: B",
+            "children": []
+          },
+          {
+            "name": "B-2",
+            "description": "This is a description of B-2",
+            "area": "Parent: B",
+            "children": []
+          },
+          {
+            "name": "B-3",
+            "description": "This is a description of B-3",
+            "area": "Parent: B",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "D",
+        "description": "This is a description of D",
+        "area": "Parent: A",
+        "children": []
+      },
+      {
+        "name": "E",
+        "description": "This is a description of E",
+        "area": "Parent: A",
+        "children": []
+      }
+    ]
+  }
