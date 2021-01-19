@@ -8,12 +8,12 @@
 </template>
 
 <script>
-  export default {
-    name: 'mainPage',
-    props: {
-      msg: String,
-    },
-  };
+export default {
+  name: 'mainPage',
+  props: {
+    msg: String,
+  },
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
