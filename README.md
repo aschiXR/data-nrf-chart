@@ -2,9 +2,9 @@
 
 Project demo is available at:
 
-<h4>Using the app:</h4>
+![finalResult](finalResult.png)
 
-When the app is loaded, a screen should be displayed, similar to the following:
+<h4>Using the app:</h4>
 
 The data charts contains all the data in a hierarchical structure (parent - children - grandchildren - …) from the connected source.
 The following functionalities are available:
