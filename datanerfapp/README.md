@@ -37,6 +37,8 @@ Key files of the app, used for development are the following:
 7. ./public/js/nerf-herders-test-data.json - This file contains the retrieved data, reformatted for the children elements to be adopted in the data chart structure.
 8. ./tests/unit/app.spec.js - This file conatins unit testing of our app, using Jest.
 
+<h4>Note:</h4> Before running locally, run the command 'npm i' in the source directory, to install all dependencies.
+
 <h4>Useful links:</h4>
 
 - Vue.js - https://vuejs.org/
