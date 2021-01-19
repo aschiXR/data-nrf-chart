@@ -2,7 +2,7 @@
 
 Project demo is available at:
 
-![finalResult](finalResult.png)
+![finalResult](./finalResult.png)
 
 <h4>Using the app:</h4>
 
