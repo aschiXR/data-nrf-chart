@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <title>Data Nerf app</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto" rel="stylesheet">
+  </head>
+  <body translate="no">
+    <noscript>
+      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+      <div class="user-search-box search-input">
+        <div class="search-input"></div>
+      </div>
+      <div id="svgChart"></div>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="./js/Chart.js">
+      header('Access-Control-Allow-Origin: *');
+      header('Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS');
+      header('Access-Control-Allow-Headers: *');
+    </script>
+  </body>
+</html>
