@@ -1,4 +1,4 @@
-<h3>Data Visualization Vue.js/D3.js app</h3>
+<h2>Data Visualization Vue.js/D3.js app</h2>
 
 Project demo is available at:
 
@@ -13,7 +13,7 @@ The following functionalities are available:
 3)Click on the ‘+’ sign to expand a cards’ children.
 4)Click on the ‘-’ sign to collapse that cards’ children.
 
-# Note: The number on the bottom left corner of each card indicate the number of children that exist under that card. If that number is ‘0’, then this card has no children entities and therefore none will be displayed.
+<h3>Note: The number on the bottom left corner of each card indicate the number of children that exist under that card. If that number is ‘0’, then this card has no children entities and therefore none will be displayed.</h3>
 
 <h4>How to:</h4>
 
