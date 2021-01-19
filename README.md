@@ -2,7 +2,7 @@
 
 Project demo is available at:
 
-![finalResult](./finalResult.png)
+![finalResult](https://github.com/aschiXR/data-nrf-chart/blob/main/finalResult.PNG "Data Chart app")
 
 <h4>Using the app:</h4>
 
