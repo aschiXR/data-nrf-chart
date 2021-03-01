@@ -1,7 +1,5 @@
 <h2>Data Visualization Vue.js/D3.js app</h2>
 
-![finalResult](https://github.com/aschiXR/data-nrf-chart/blob/main/finalResult.PNG "Data Chart app")
-
 <h4>Using the app:</h4>
 
 The data charts contains all the data in a hierarchical structure (parent - children - grandchildren - …) from the connected source.
